@@ -1,0 +1,877 @@
+head,type,tail
+Project Risk Management,facet of,risk management
+Project Risk Management,part of,risk management
+Project Risk Management,facet of,risk management planning
+Project Risk Management,use,risk management
+risk identification,facet of,risk management
+risk analysis,facet of,risk management
+risk response planning,facet of,risk management
+non-event risk,subclass of,Risk Management
+non-event risks,subclass of,Risk Management
+Risk Management,studies,risk management
+risk management,studied by,Risk Management
+agile,subclass of,adaptive
+cross-functional,part of,agile
+cross-functional teams,part of,agile
+Plan Risk Management,facet of,risk management
+Plan Risk Management,use,risk management
+Plan Risk Management process,facet of,risk management
+risks,facet of,project
+risks,part of,project
+risk,facet of,project
+project management plan,has part,project charter
+requirements,part of,project management plan
+project management plan,has part,requirements
+risk response planning,facet of,project management plan
+risk response planning,subclass of,project management plan
+risk response planning,part of,project management plan
+project risk management,part of,project management plan
+project risk management,subclass of,risk management
+project risk management,facet of,project management plan
+project management plan,part of,best practice risk management planning
+project management plan,use,best practice risk management planning
+project management plan,use,project management
+risk register,part of,risk management plan
+risk management plan,facet of,risk management process
+risk management plan,facet of,risk management
+managing risk,facet of,risk
+risk,studied by,managing risk
+risk,facet of,managing risk
+risk threshold,facet of,managing risk
+risk thresholds,facet of,managing risk
+risk threshold,subclass of,managing risk
+Project risk management,facet of,managing project risks
+project objectives,part of,project processes
+Project risk management,subclass of,managing project risks
+stakeholders,has part,team members
+stakeholders,subclass of,team members
+stakeholders,has part,team member
+project manager,field of this occupation,project risk
+project risk,practiced by,project manager
+project risk,facet of,project manager
+risk thresholds,facet of,risk management
+Enterprise environmental factors,facet of,risk management
+risk threshold,facet of,risk management
+cost tracking,facet of,risk
+risk,facet of,risk
+risk,facet of,overall risk
+risk register,part of,risk management plan
+risk register,use,risk management plan
+risk management plan,facet of,risk management process
+risk register,use,risk management
+risk registers,use,risk management
+risk assessment,studies,risk
+risk,studied by,risk assessment
+risk management,subclass of,managing risks
+expert judgment,facet of,risk management
+risk management,facet of,managing risks
+risk assessment,part of,risk management
+risk assessment,facet of,risk management
+risk management,has part,risk assessment
+risk assessment,studies,risk
+risk,studied by,risk assessment
+risk assessment,facet of,risk
+stakeholder analysis,facet of,risk appetite
+stakeholder analysis,studies,risk appetite
+risk appetite,studied by,stakeholder analysis
+probability distribution,facet of,probability
+probability distribution,has part,probability
+probability distribution,facet of,probability of a risk occurring
+risk management plan,facet of,managing risk
+risk management,subclass of,managing risk
+risk management plan,subclass of,managing risk
+risk approach,subclass of,managing risk
+methodology,use,risk management
+risk management process,facet of,risk management
+risk management,has part,risk management process
+risk management process,part of,risk management
+project management plan,facet of,project
+risk management plan,part of,project management plan
+methodology,use,risk management
+methodology,facet of,risk management
+risk categories,facet of,risk management
+project lifecycle,facet of,project management
+project lifecycle,part of,project management
+project lifecycle,facet of,project management activities
+monitoring and control,part of,project management
+monitoring and control,facet of,project management
+monitoring and control,part of,risk management
+project risk,facet of,project risk
+Identifying Risks,facet of,project risk
+project risk,has part,project risk
+project manager,field of this occupation,project team
+project team,practiced by,project manager
+project manager,part of,project team
+project team,has part,project manager
+risk management plan,has part,risk statements
+risk statements,facet of,risk management
+risk management plan,has part,risk statement
+requirements management plan,part of,project management plan
+schedule management plan,part of,project management plan
+cost management plan,part of,project management plan
+quality management plan,part of,project management plan
+resource management plan,part of,project management plan
+risk management plan,part of,project management plan
+requirements management plan,subclass of,project management plan
+schedule management plan,subclass of,project management plan
+cost management plan,subclass of,project management plan
+quality management plan,subclass of,project management plan
+resource management plan,subclass of,project management plan
+risk management plan,subclass of,project management plan
+schedule baseline,instance of,cost baseline
+cost baseline,subclass of,scope baseline
+cost baseline,subclass of,schedule baseline
+uncertainty,subclass of,Risk
+ambiguity,subclass of,uncertainty
+ambiguity,subclass of,Risk
+cause-effect chain,facet of,Risk
+cause-effect chain,facet of,uncertainty
+Risk,has cause,uncertainty
+uncertainty,has effect,Risk
+issue log,subclass of,Project document
+assumption log,instance of,Project document
+cost estimates,instance of,Project document
+duration estimates,instance of,Project document
+issue log,instance of,Project document
+lessons learned register,instance of,Project document
+requirements documentation,instance of,Project document
+resource requirements,instance of,Project document
+stakeholder register,instance of,Project document
+assumption log,subclass of,Project document
+cost estimates,subclass of,Project document
+duration estimates,subclass of,Project document
+lessons learned register,subclass of,Project document
+requirements documentation,subclass of,Project document
+resource requirements,subclass of,Project document
+stakeholder register,subclass of,Project document
+project risk,subclass of,risk
+project risk,subclass of,risks
+qualitative risk analysis,facet of,risk
+qualitative risk analysis,followed by,quantitative risk analysis
+quantitative risk analysis,follows,qualitative risk analysis
+qualitative risk analysis,subclass of,quantitative risk analysis
+award,part of,contract
+milestone dates,part of,contract type
+milestone dates,facet of,contract type
+project documentation,facet of,project management
+project documentation,part of,project management
+project documentation,part of,project management plan
+risk response planning,facet of,risk
+project documentation,facet of,costs
+risk response planning,facet of,risks
+project risk,facet of,project risk
+project risk,subclass of,project risk
+project risk,has part,project risk
+project management plan,subclass of,documentation
+project management plan,use,project management
+project management plan,facet of,project management
+risk response planning,facet of,risk
+risk response planning,facet of,risks
+risk response,facet of,risk
+Enterprise environmental factors,facet of,risks
+Enterprise environmental factors,facet of,risk
+Enterprise environmental factor,facet of,risk
+academic studies,subclass of,academic studies
+academic studies,facet of,academic studies
+risk database,facet of,risk
+probability,facet of,risk
+probability,facet of,risks
+probability,subclass of,risks
+risk prioritization,facet of,risk
+checklists,facet of,project
+checklists,part of,project
+Qualitative risk analysis,studies,risk
+Qualitative risk analysis,facet of,risk
+risk,studied by,Qualitative risk analysis
+Expert judgment,facet of,project management
+risk identification,facet of,project management
+project risk,facet of,project managers
+project risk,studied by,project managers
+project risk,used by,project managers
+knowable risk,subclass of,risk
+knowable risks,subclass of,risk
+knowable risks,subclass of,risks
+brainstorming,subclass of,creativity
+brainstorming,facet of,creativity
+brainstorming,use,creativity
+Creativity technique,subclass of,Think creatively
+Checklists,subclass of,actions
+Creativity technique,subclass of,Checklists
+Imagine potential risks,subclass of,think creatively
+Imagine potential risks,subclass of,risk
+think creatively,has part,imagine potential risks
+root cause analysis,subclass of,Data analysis
+root cause analysis,use,Risk management
+root cause analysis,facet of,Risk management
+risks,has part,opportunities
+SWOT analysis,studies,project documents
+project documents,studied by,SWOT analysis
+Document analysis,facet of,project documents
+Document analysis,facet of,project document
+Document analysis,studies,project documents
+project documents,studied by,Document analysis
+project risk,facet of,risk management
+project risks,facet of,risk management
+project risk,studied by,risk management
+project risks,subclass of,risk management
+project risk,subclass of,risk categories
+project risk,instance of,risk categories
+project risk,subclass of,risk
+PESTLE,has part,economic
+economic,part of,PESTLE
+TECOP,has part,economic
+complexity,facet of,uncertainty
+uncertainty,subclass of,risk
+ambiguity,facet of,uncertainty
+objectives,different from,objectives
+objectives,opposite of,objectives
+qualitative risk analysis,subclass of,risk management
+qualitative risk analysis,part of,risk management
+qualitative risk analysis,facet of,risk management
+risk management plan,use,risk identification
+risk management plan,main subject,risk identification
+risk workshop,facet of,risk management plan
+project sponsor,part of,project team
+project team,has part,project sponsor
+risk management plan,facet of,risk
+risk management plan,facet of,project team
+project team,has part,project stakeholders
+project manager,field of this occupation,project management
+project manager,subclass of,team member
+project manager,subclass of,stakeholders
+risk management plan,facet of,risk management
+risk management plan,use,risk management
+risk management plan,facet of,risk management process
+qualitative risk analysis,studies,risk
+project risk,subclass of,risk
+qualitative risk analysis,studies,risks
+causes and effects,facet of,risk
+causes,has effect,effects
+effects,has cause,causes
+causes and effects,studied by,risk analysis
+sources and causes,subclass of,risks
+sources and causes,facet of,risks
+sources and causes,subclass of,project risks
+risk analysis,studies,risk exposure
+risk exposure,studied by,risk analysis
+project risk,subclass of,risk analysis
+project risk,studied by,risk management
+project risk,facet of,risk management
+qualitative,part of,risk management
+quantitative,part of,risk management
+risk analysis,part of,risk management
+qualitative risk analysis,opposite of,quantitative risk analysis
+quantitative risk analysis,opposite of,qualitative risk analysis
+qualitative risk analysis,different from,quantitative risk analysis
+quantitative risk analysis,different from,qualitative risk analysis
+sources and causes,subclass of,risk
+sources and causes,facet of,risk
+sources and causes,subclass of,risks
+issue log,subclass of,project documents
+issue log,subclass of,project document
+issue log,instance of,project documents
+qualitative risk analysis,subclass of,risk management
+qualitative,subclass of,risk analysis
+qualitative risk analysis,part of,risk management
+risk management,facet of,project
+risk management,facet of,project life cycle
+risk management,part of,project life cycle
+probability of occurrence,subclass of,risk
+high-priority risks,subclass of,project risks
+probability of occurrence,subclass of,probability of occurrence
+biases,subclass of,risk attitudes
+biases,facet of,risk attitudes
+high-priority risks,subclass of,risks
+risk attitudes,subclass of,biases
+risk management plan,facet of,risk management
+risk management plan,use,risk management
+risk management plan,subclass of,project management plan
+risk management plan,facet of,risk management planning
+risk breakdown structure,facet of,risk categories
+qualitative risk analysis,subclass of,risk management
+risk management plan,facet of,risk management methodology
+stakeholder register,subclass of,risk register
+risk register,facet of,project risk
+risk register,facet of,project risks
+qualitative risk analysis,subclass of,risk analysis
+qualitative risk analysis,studies,project risk
+project risk,studied by,qualitative risk analysis
+High priority risk,opposite of,low priority risk
+low priority risk,opposite of,High priority risk
+High priority risks,opposite of,low priority risks
+low priority risks,opposite of,High priority risks
+Enterprise environmental factors,facet of,qualitative risk analysis
+Enterprise environmental factors,use,qualitative risk analysis
+checklists,part of,risk database
+probability,facet of,risk
+impact on objectives,has part,probability
+impact on objectives,facet of,probability
+qualitative risk analysis,facet of,risk
+management,has part,stakeholders
+stakeholders,part of,management
+qualitative,subclass of,risk analysis
+organizational process,part of,project
+project,has part,organizational process
+risk,facet of,project
+cost tracking,facet of,project
+project,has part,project deliverables
+project deliverables,part of,project
+Expert judgment,use,qualitative risk analysis
+Expert judgment,use,risk analysis
+Expert judgment,facet of,risk analysis
+databases,use,data collection
+training,subclass of,knowledge
+database,use,data collection
+probability,facet of,risk
+probability,facet of,probability
+probability,subclass of,probability
+limited interviews,use,risk assessment
+limited interviews,subclass of,risk assessment
+limited interviews,subclass of,interviews
+intentional bias,subclass of,bias
+intentional bias,instance of,bias
+intentional bias,has effect,data gathered from individuals
+intentional bias,has effect,unbiased sources of information
+intentional bias,subclass of,unbiased sources of information
+Qualitative risk analysis,use,Risk management
+Qualitative risk analysis,facet of,Risk management
+risk management,has part,Risk analysis
+timelancy,facet of,timeliness
+timelancy,instance of,timeliness
+timelancy,facet of,timeleness
+timeliness,facet of,data quality
+timeliness,instance of,quality
+timeliness,instance of,data quality
+probability,studied by,perception
+probability,part of,perception
+probability,facet of,perception
+controllability,subclass of,manageability
+controllability,facet of,manageability
+controllability,part of,manageability
+Monte Carlo simulation,subclass of,numerical
+Monte Carlo simulation,subclass of,numerical estimate
+Monte Carlo simulation,instance of,numerical
+contingency reserves,part of,project plan
+project plan,has part,project plan baseline
+project plan baseline,part of,project plan
+facilitation,subclass of,interpersonal team skills
+facilitation,part of,interpersonal
+facilitation,instance of,interpersonal team skills
+qualitative,subclass of,risk analysis
+risk analysis,subclass of,qualitative
+biases,has effect,disagreements
+qualitative risk analysis,subclass of,risk analysis
+qualitative,part of,risk analysis
+project phase,part of,project
+project budget,part of,project
+Risk categorization,facet of,risk
+roles and responsibilities,instance of,risk categories
+root cause,has effect,risk
+roles and responsibilities,instance of,risk category
+effective risk responses,subclass of,generic risk responses
+effective risk responses,facet of,generic risk responses
+effective risk responses,subclass of,generic risk response
+uncertain event,subclass of,Risk
+uncertain,subclass of,Risk
+Risk,subclass of,uncertain event
+uncertain event,subclass of,condition
+condition,has part,uncertain event
+risk statement,facet of,risk
+bubble chart,subclass of,data representation
+bubble chart,instance of,data representation
+probability-impact matrices,use,risk management
+Monte Carlo simulation,use,quantitative risk analysis
+Monte Carlo simulation,use,risk analysis
+Monte Carlo simulation,subclass of,quantitative risk analysis
+probability,facet of,risk
+Qualitative risk analysis,studies,project risk
+project risk,studied by,Qualitative risk analysis
+Qualitative risk analysis,facet of,project risk
+probability,subclass of,risk
+impact scale,subclass of,probability
+High-priority risk,subclass of,Risk
+categorized,facet of,Risk
+High-priority risks,subclass of,Risk
+risk register,use,risk management
+risk report,use,risk management
+risk register,use,risk management process
+probability,studied by,risk analysis
+qualitative risk analysis,studies,probability
+probability,studied by,qualitative risk analysis
+impacts,studied by,risk analysis
+impact,subclass of,probability
+quantitative risk analysis,studies,risk
+probability,facet of,risk
+watch list,facet of,qualitative risk analysis
+risk analysis,subclass of,qualitative
+qualitative risk analysis,studies,risk
+project risks,facet of,project risk exposure
+project risks,has effect,project risk exposure
+project risk exposure,has cause,project risks
+Plan Risk Responses,instance of,software
+Plan Risk Responses,use,project
+Risk Responses,use,Plan
+cost baseline,part of,project management plan
+project management plan,has part,risk management plan
+risk management plan,subclass of,project management plan
+cost baseline,subclass of,schedule baseline
+project risks and uncertainties,studied by,quantitative risk analysis
+cost baseline,facet of,project risks and uncertainties
+project risks and uncertainties,has effect,project uncertainties
+project risks and uncertainties,has part,project uncertainties
+project scope,part of,project management plan
+project management plan,has part,project scope
+project management plan,facet of,project scope
+Assumptions log,facet of,project management
+Assumptions log,use,project management
+Assumptions log,part of,project management
+Cost estimates,subclass of,forecasts
+Cost estimate,subclass of,forecasts
+Cost estimates and forecasts,facet of,cost
+quantitative risk analysis,studies,risk
+quantitative risk analysis,studies,risks
+uncertainty,subclass of,risk
+Qualitative risk analysis,subclass of,quantitative risk analysis
+Qualitative risk analysis,part of,quantitative risk analysis
+Qualitative risk analysis,subclass of,risk analysis
+risk response planning,facet of,risk exposure
+quantitative risk analysis,subclass of,risk analysis
+Enterprise environmental factors,use,quantitative risk analysis
+Enterprise environmental factors,facet of,quantitative risk analysis
+Enterprise environmental factors,subclass of,quantitative risk analysis
+illuminated,subclass of,illuminated
+monocular,subclass of,telescope
+illuminated,subclass of,illuminated light
+probability,facet of,risk
+probability,subclass of,risk
+expert judgment,studies,risk
+plan risk responses process,use,quantitative risk analysis
+plan risk responses process,subclass of,quantitative risk analysis
+plan risk responses,subclass of,quantitative risk analysis
+cost,facet of,deliverables
+project,has part,deliverables
+risk,facet of,project
+sources of uncertainty,subclass of,uncertainty
+expertise,subclass of,knowledge
+Exper judgment,instance of,expertise
+sources of uncertainty,facet of,uncertainty
+sources of uncertainty,subclass of,risk
+quantitative risk analysis,subclass of,risk analysis
+uncertainty,subclass of,risk
+risk analysis,studies,uncertainty
+uncertainty,studied by,risk analysis
+risk analysis,studies,risk
+risk,studied by,risk analysis
+secondary and residual risks,subclass of,risk analysis
+sources of uncertainty,subclass of,risk analysis
+sources of uncertainty,studied by,risk analysis
+sources of uncertainty,facet of,risk analysis
+historical data,subclass of,data
+historical data,facet of,risks
+expert,field of this occupation,information
+intentional bias,subclass of,unbiased information
+intentional bias,has effect,unbiased information
+qualitative risk analysis,studies,risks
+facilitated workshop,facet of,project risk management
+facilitated workshop,use,project risk management
+facilitated workshop,field of work,project risk management
+consensus,subclass of,decision-making
+consensus,subclass of,decision-making process
+sources of bias,facet of,decision-making process
+project risk management,facet of,project
+project risk management,studies,project
+project,studied by,project risk management
+uncertainty,facet of,probability distribution
+uncertainty,subclass of,risk
+sources of uncertainty,facet of,probability distribution
+risk,subclass of,uncertainty
+probability distribution,facet of,uncertainty
+project risk,subclass of,uncertainty
+Monte Carlo simulation,use,quantitative risk analysis
+Monte Carlo simulation,uses,decision tree
+risk analysis,studies,risk
+risk,studied by,risk analysis
+impact,facet of,risk
+Monte Carlo analysis,subclass of,simulation
+Monte Carlo analysis,instance of,simulation
+Monte Carlo analysis,use,simulation
+Cost and schedule risk analysis,facet of,project risk
+Cost and schedule risk analysis,facet of,project risks
+Cost and schedule risk analysis,studies,project risk
+risk response planning,subclass of,decision-making
+project risk,studied by,risk response planning
+risk response planning,studies,project risk
+quantitative risk analysis,subclass of,risk report
+quantitative risk analysis,facet of,risk report
+quantitative risk analysis,subclass of,risk reports
+Monte Carlo simulation,subclass of,quantitative techniques
+Monte Carlo simulation,named after,Monte Carlo
+Monte Carlo simulation,instance of,quantitative techniques
+Monte Carlo simulation,use,quantitative risk analysis
+Monte Carlo simulation,use,risk analysis
+Monte Carlo simulation,subclass of,risk analysis
+management plan,subclass of,project document
+project document,part of,management plan
+project documents,part of,management plan
+project risk exposure,facet of,project documents
+contingency plan,subclass of,Structured decision-making
+contingency plans,subclass of,Structured decision-making
+contingency plan,facet of,Structured decision-making
+cost baseline,part of,project management plan
+cost baseline,facet of,project management plan
+cost baseline,subclass of,project management plan
+risk management,subclass of,managing risks
+risk management,facet of,managing risks
+cost baseline,facet of,risk management
+project manager,field of this occupation,project management
+project manager,subclass of,project manager
+risk management plan,facet of,risk management process
+risk management plan,part of,risk management process
+lessons learned register,part of,project schedule
+project schedule,has part,lessons learned register
+project schedule,has part,project team assignments
+project team assignments,part of,project schedule
+prioritizing risk,facet of,risk
+prioritizing risks,facet of,risk
+project,has cause,project constraints
+project constraints,has effect,project
+risk response,facet of,risk
+risk,has effect,risk action
+risk action,has cause,risk
+secondary risk,subclass of,risk
+secondary risks,subclass of,risks
+secondary risks,subclass of,risk
+project change management,part of,project management plan
+project planning,part of,project management plan
+project change management,part of,project planning
+risk appetite threshold,facet of,risk responses
+risk appetite thresholds,facet of,risk responses
+risk appetite,subclass of,risk responses
+risk management,facet of,risk
+risk management,studies,risk
+risk management,facet of,risks
+risk register,part of,risk management plan
+risk register,use,risk management plan
+risk report,part of,risk management plan
+probability,subclass of,risk
+probability,facet of,risk
+risk,has part,probability
+Qualitative risk analysis,part of,risk management
+Qualitative risk analysis,facet of,risk management
+Qualitative risk analysis,use,risk management
+threats,subclass of,risks
+contingencies,subclass of,risks
+opportunities,subclass of,risks
+contingencies,facet of,project risk
+contingencies,subclass of,project risk
+contingencies,part of,project risk
+technical feasibility,subclass of,feasibility
+technical feasibility,instance of,feasibility
+feasibility,subclass of,technical feasibility
+risk management,has part,risk action
+risk management,studies,risk action
+risk action,studied by,risk management
+risk action,part of,risk management
+semi-structured interview,subclass of,limited interviews
+limited interviews,subclass of,interviews
+semi-structured interviews,subclass of,limited interviews
+risk,has part,stakeholders
+stakeholders,part of,risk
+risk,subclass of,stakeholders
+project risk,subclass of,risk management
+project risks,subclass of,risk management
+project risk,facet of,risk management
+risk management plan,facet of,risk management
+risk management plan,use,risk management
+risk management plan,field of work,risk management
+escalate,subclass of,dealing with threats
+avoid,subclass of,dealing with threats
+transfer,subclass of,dealing with threats
+mitigate,subclass of,dealing with threats
+accept,subclass of,dealing with threats
+escalate,subclass of,strategies for dealing with threats
+avoid,subclass of,strategies for dealing with threats
+transfer,subclass of,strategies for dealing with threats
+mitigate,subclass of,strategies for dealing with threats
+accept,subclass of,strategies for dealing with threats
+reassessing risks,part of,risk management
+reassessing risks,facet of,risk management
+reassessing risks,subclass of,risk management
+Exploitation,subclass of,exploit
+Exploitation,different from,exploit
+exploit,subclass of,Exploitation
+Exploitation,opposite of,Enhancement
+Enhancement,opposite of,Exploitation
+Exploitation,opposite of,Sharing
+Sharing,opposite of,Exploitation
+proactive action,subclass of,plan risk responses
+Acceptance,facet of,plan risk responses
+plan risk responses,subclass of,Acceptance
+Contingency response strategy,subclass of,response plan
+Contingency response strategy,facet of,project
+Contingency response strategy,part of,response plan
+fallback plan,subclass of,contingency planning
+contingency planning,subclass of,fallback plan
+contingency planning,uses,fallback plan
+fallback plan,used by,contingency planning
+project lifecycle,facet of,project decisions
+project lifecycle,facet of,project
+inherent risk,facet of,project lifecycle
+monitoring and controlling risks,facet of,project risk
+monitoring,subclass of,controlling risks
+project risk,facet of,project risk
+reassessment of risks,facet of,project risk management
+reassessment of risks,part of,project risk management
+reassessment,part of,risk management
+Cost-benefit analysis,subclass of,Data analysis
+Cost-benefit analysis,studies,Cost-effectiveness
+Cost-effectiveness,studied by,Cost-benefit analysis
+cost-effectiveness,studied by,Cost-benefit analysis
+cost of the responses,subclass of,cost
+cost of the responses,facet of,cost of the responses
+cost of the responses,has part,implementation cost
+residual risk,subclass of,uncertainty
+uncertainty,subclass of,risk
+secondary residual risks,subclass of,uncertainty of outcomes
+multicriteria,subclass of,decision analysis
+Criteria for risk response,subclass of,decision analysis
+Criteria for risk response,instance of,decision analysis
+probability,facet of,probability
+probability,subclass of,probability
+probability and/or impact,facet of,probability
+secondary risks,subclass of,risk occurrence
+secondary risk,subclass of,risk occurrence
+secondary risks,subclass of,Risk occurrence
+residual risks,subclass of,uncertainty of outcomes
+residual risk,subclass of,uncertainty of outcomes
+uncertainty of outcomes,subclass of,risk
+Project Management Plan,has part,Perform Integrated Change Control
+Perform Integrated Change Control,part of,Project Management Plan
+Project Management Plan,use,Project Management
+Project Management Plan,has part,project documentation
+project documentation,part of,Project Management Plan
+Project Management Plan,has part,Project documentation
+Project documentation,part of,Project Management Plan
+risk response planning,facet of,risk
+risk response planning,facet of,predict the exposure to risk
+predict the exposure to risk,subclass of,risk response planning
+cost management,part of,project management
+scope baseline,part of,project management
+scope baseline,part of,project management plan
+resource management,subclass of,management
+procurement management,part of,resource management
+procurement management,subclass of,management
+Risk management plan,facet of,Risk management
+risk management plan,facet of,Risk management
+Risk management process,has part,risk management plan
+risk management plan,part of,Risk management process
+assumption log,facet of,risk management
+cost forecasts,facet of,risk management
+cost forecasts,part of,risk management
+risk register,has part,risk report
+risk report,part of,risk register
+contingency plan,subclass of,risk response strategies
+risk register,followed by,risk report
+prioritizing risks,facet of,risk management
+prioritizing risks,part of,risk management
+prioritizing risks,subclass of,risk management
+risk owner,has part,risk action owner
+risk action owner,part of,risk owner
+monitoring,subclass of,monitoring
+project planning,part of,project management
+project management plan,use,project planning
+project management plan,has part,project planning
+project planning,part of,project management plan
+manage risks,facet of,project risk exposure
+risk response plan,facet of,manage risks
+manage risks,facet of,project risk
+risk management,subclass of,manage risks
+manage risks,subclass of,risk management
+project risk exposure,subclass of,manage risks
+risk management plan,facet of,risk management
+risk management plan,use,risk management
+risk management plan,facet of,managing risks
+risk thresholds,facet of,risk management
+risk threshold,facet of,risk management
+risk thresholds,part of,risk management
+risk management methodology,facet of,risk management
+project description,facet of,risk management
+project description,part of,risk management methodology
+risk register,subclass of,project documents
+lessons learned register,subclass of,project documents
+probability of,subclass of,probability
+probability,subclass of,probability
+probability of probability,subclass of,risk
+High-priority risk,subclass of,Risk
+High-priority risks,subclass of,Risk
+High-priority risk,opposite of,low-priority risk
+metrics,part of,Organizational process
+metrics,facet of,Organizational process
+trigger conditions,subclass of,metrics
+thresholds,facet of,risk
+threshold,facet of,risk
+thresholds,subclass of,risk
+manage and mitigate risks,facet of,risk
+manage,subclass of,mitigate risk
+mitigate risk,subclass of,manage and mitigate
+Expert judgment,facet of,risk management
+Expert judgment,use,risk management
+Expert judgment,part of,risk management
+databases,use,Data collection
+databases,use,Data collection and analysis
+Data collection,use,analysis
+biases,facet of,expert judgment
+biases,subclass of,expert judgment
+biases,different from,expert judgment
+expert judgment,different from,biases
+project manager,field of this occupation,project team
+project team,practiced by,project manager
+risk management,has part,risk response
+risk response,part of,risk management
+project risk management,facet of,project risk
+project risk management,subclass of,risk management
+project risk management,studies,project risk
+risk action owner,facet of,project risk management
+risk owner,facet of,project risk management
+risk owner,field of work,project risk management
+project management information system,subclass of,software
+project management information system,instance of,software
+scheduling,facet of,project
+cost tracking,facet of,performance
+risk,facet of,project
+risk,part of,project
+cost,part of,schedule
+cost,has part,schedule
+integrated change control,facet of,change requests
+risk response planning,facet of,risk response
+risk response planning,facet of,risk responses
+risk response planning,facet of,risk
+issue log,subclass of,Project document
+issue log,subclass of,Project documents
+issue log,instance of,Project document
+risk register,has part,risk report
+risk report,part of,risk register
+risk register,main subject,project risk exposure
+risk register,followed by,risk report
+risk response plan,facet of,manage them
+risk response plan,use,manage them
+risk response plan,subclass of,manage them
+Monitor Risks,facet of,risk management
+Monitor Risks,part of,risk management
+Monitor Risks,subclass of,monitoring
+contingency reserves,facet of,risk management
+contingency reserves,part of,risk management
+project risk exposure,facet of,risk management
+risk management plan,facet of,risk management
+risk management plan,part of,project management plan
+risk management plan,facet of,project management plan
+documenting results,subclass of,reporting formats
+monitoring,facet of,risk-related activities
+documenting results,subclass of,reporting
+risk management methodology,use,risk management
+risk management methodology,facet of,risk management
+risk management methodology,part of,risk management organization
+risk management methodology,facet of,risk management organization
+risk management organization,has part,risk management methodology
+issue log,subclass of,Project document
+risk register,subclass of,Project document
+issue log,part of,project management
+risk register,facet of,project risk
+risk report,facet of,risk
+risk report,facet of,project risk
+probability,facet of,risk
+probability,subclass of,risk
+probability,facet of,risks
+High priority risk,subclass of,Risk
+High priority risks,subclass of,Risk
+Low priority risk,subclass of,Risk
+project status,facet of,project management plan
+project management plan,facet of,project status
+project status,part of,project management plan
+project documentation,part of,project management plan
+project documentation,facet of,project management plan
+project management plan,has part,project documentation
+project documentation,facet of,project
+risk response planning,facet of,risk
+project documentation,subclass of,document
+earned value data,subclass of,performance measurement
+risk,studied by,monitoring performance-related risks
+risk,studied by,monitoring performance
+risk,subclass of,metrics
+trigger conditions,facet of,risk
+trigger conditions,facet of,risks
+cost tracking,subclass of,project-related features
+cost tracking,subclass of,time
+risk,facet of,deliverables
+Technical performance analysis,subclass of,data analysis
+Technical performance analysis,facet of,data analysis
+Technical performance analysis,part of,data analysis
+burndown chart,instance of,graphical representation
+burndown chart,subclass of,graphical representation
+burndown chart,instance of,graphical representations
+burndown chart,subclass of,graphical representations
+priorities,subclass of,expectations
+priorities,facet of,expectations
+priorities,part of,expectations
+Risk audit,subclass of,audit
+Risk audits,subclass of,audit
+Risk audit,facet of,risk management
+risk management plan,has part,Risk audit
+Risk audit,part of,risk management plan
+risk management plan,facet of,risk management
+project manager,field of this occupation,project manager
+project manager,field of this occupation,project
+project,practiced by,project manager
+project manager,part of,project team
+project team,has part,project manager
+project manager,field of this occupation,project team
+project team,practiced by,project manager
+risk management plan,facet of,risk audit
+risk management plan,use,risk audit
+risk management,has part,risk audit
+Meetings,facet of,project risk management
+Meetings,part of,project risk management
+project risk management,studies,project risk
+project risk,studied by,project risk management
+reassessment of current risks,subclass of,new risks
+reassessment,facet of,new risks
+reassessment,part of,risk management
+project risk management,facet of,project
+risk management,facet of,project
+project risk management,studies,project
+project,studied by,project risk management
+project risk management,facet of,project
+project risk management,studies,project
+project,studied by,project risk management
+project risk management,subclass of,Risk
+project objectives,facet of,project completion
+project objectives,facet of,Risk
+project objectives,has effect,project completion
+project risk,facet of,project management plan
+project risk,part of,project management plan
+project management plan,part of,project management plan
+project documentation,facet of,project
+project documentation,facet of,costs
+resource assignments,part of,project documentation
+change control process,facet of,project management plan
+change control,facet of,project management plan
+risk management plan,subclass of,management planning
+risk management plan,use,risk management
+risk status report,part of,risk management plan
+issue log,subclass of,Project document
+issue log,subclass of,Project documents
+project lifecycle,has part,Project document
+risk review,subclass of,risk report
+lessons learned register,facet of,risk review
+lessons learned register,followed by,risk register
+iterative,facet of,project risk management
+iterative,subclass of,project risk management
+project risk management,studies,project risks
+project risks,studied by,project risk management
+risk management,facet of,project lifecycle
+project lifecycle,facet of,risk management
+risk management,part of,project lifecycle
+risk register,part of,risk management plan
+risk register,use,risk management plan
+risk management plan,facet of,monitoring risks
+risk register,use,risk management
